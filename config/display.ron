@@ -1,4 +1,6 @@
 (
     title: "Pong!",
     dimensions: Some((500, 500)),
+    min_dimensions: Some((500, 500)),
+    max_dimensions: Some((500, 500)),
 )
